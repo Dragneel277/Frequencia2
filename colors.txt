@@ -1,0 +1,6 @@
+Text - #FF003169
+Green Button - #FF73D987
+Red Button - #FFEB5959
+Blue Button - #FF738BD9
+Background - #FFE9EFF5
+Nav Bar - #FFABABAB
