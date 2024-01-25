@@ -27,31 +27,32 @@
         android:layout_gravity="center"
 
         />
-    <TextView
+    <EditText
+        android:id="@+id/editTextName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Name"
+        android:hint="Name"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
-        android:textSize="25sp"
-        />
+        android:textSize="25sp"/>
 
-    <TextView
+    <EditText
+        android:id="@+id/editTextTest1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Test 1"
+        android:hint="Test 1"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
-        android:textSize="25sp"
-        />
-    <TextView
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/editTextTest2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Test 2"
+        android:hint="Test 2"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
-        android:textSize="25sp"
-        />
+        android:textSize="25sp"/>
 
 
 
